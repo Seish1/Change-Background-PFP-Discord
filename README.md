@@ -30,6 +30,9 @@ Examples
 rgba(0, 0, 0, 0.7) - Semi-transparent
 linear-gradient(135deg, #667eea, #764ba2) - Gradient
 
+
 Version: 5.0.0
+
 Author: Starling
+
 Requirements: BetterDiscord, Discord Desktop App
